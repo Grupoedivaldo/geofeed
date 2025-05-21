@@ -1,2 +1,2 @@
 prefix,country,region,city,postal
-45.227.30.0/2,BR,PB,Gaudencio Boqueirão,58450-000
+45.227.30.0/24,BR,PB,Gaudencio Boqueirão,58450-000
